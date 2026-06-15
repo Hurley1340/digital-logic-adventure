@@ -11,7 +11,6 @@ This project was created as a final Python programming project. It combines prog
 The program walks the user through:
 
 * Generating a bimodal gaussian distribution of voltages
-* Choosing a voltage threshold
 * Converting voltage levels into binary data
 * Visualizing binary data as a pixel image
 * Applying AND, OR, and XOR logic gates
