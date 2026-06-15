@@ -29,7 +29,7 @@ This project demonstrates:
 * Bitwise logic operations
 * Error handling
 * Matplotlib visualizations
-* Digital logic concepts including HIGH, LOW, AND, OR, and XOR
+* Logic gates and timing diagrams
 
 ## Requirements
 
